@@ -50,12 +50,12 @@ Run the following script:
 
                        python3 clone.py
 
-This will clone the selected Java repositories an create a directory for java projects containing the cloned repositories. (Keep in mind that this will clone large volume of java projects, which we chose later to work on only a sample of them).  
+This will clone the selected Java repositories and create a directory for java projects containing the cloned repositories. (Keep in mind that this will clone a large volume of java projects, which we chose later to work on only a sample of them).  
 
 
 Step 2: Preprocess and Create Corpus
 
-Run the parse_split.py script to preprocess the Java code and create the corpus. Again, we choose only a sample of 18 projects to prepare our corpus.
+Run the parse_split.py script to preprocess the Java code and create the corpus. Again, we worked on only a sample of the projects (18) to prepare our corpus.
 
                       python3 parse_split.py
 
