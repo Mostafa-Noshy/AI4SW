@@ -18,9 +18,9 @@ Requirements
 •	Python 3.7+
 
 •	Required Python packages: 
-   o	nltk
-   o	javalang
-   o	tqdm
+   - nltk
+   - javalang
+   - tqdm
    
 Install the required packages using:
            
